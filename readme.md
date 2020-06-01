@@ -1,6 +1,12 @@
 # Investigate Loan Data From Prosper
 ## by Andy Kwok
 
+## Installation
+Python version 3.7.6
+
+## Quick Start
+<li>Clone the repo: https://github.com/andykwok-hk/Data-Visualisation-Loan-Data-from-Prosper</li>
+<li>Open the Explore Loan Data From Prosper.html if you do not have jupyter notebook installed. If jupyter notebook is installed, open Explore Loan Data From Prosper.ipynb to interact with the project.</li>
 
 ## Dataset
 
@@ -16,3 +22,4 @@ Prosper Rating has critical influence on Borrower Rate
 ## Key Insights for Presentation
 
 Customer with better financial status tend to receive better borrower rate. Home owner and those with better prosper rating receive better borrower rate but the higher monthly income does not have effect on borrower rate. Financially less stable group such as unemployed and retired group perform worse than other group when it comes to paying off debts.
+
